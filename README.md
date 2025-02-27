@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuel-eke
-- 👀 I’m interested in Front-end developement with ReactJS, python web developement and the fullstack technologies
+- 👀 I’m interested in building enterprise level web and mobile applications with the latest technologies in Javascript and Java
 - 🌱 I’m currently learning Java for web development
-- 💞️ I’m looking to collaborate on ... web projects that promote community and common every day problems
+- 💞️ I’m looking to collaborate on ... enterprise projects that promote community and solve every day problems
 - 📫 How to reach me: through my email - sam.eke.official@gmail.com or eke.eke.eth@gmail.com
 
 <!---
